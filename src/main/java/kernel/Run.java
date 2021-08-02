@@ -12,9 +12,8 @@ import UpComponent.*;
 import LiftComponent.ILift;
 import OpenCOM.*;
 import UpComponent.*;
-//import Samples.DownComponent.*;
-import java.util.*;
-import java.io.*;
+import DownComponent.*;
+
 /**
  *
  * @author denuha

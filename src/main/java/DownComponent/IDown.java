@@ -3,14 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package LiftComponent;
+package DownComponent;
+
 import OpenCOM.*;
+
 /**
  *
  * @author denuha
  */
-public interface ILift extends IUnknown{
+public interface IDown extends IUnknown{
     
-    public int add(int x);
-    public int subtract(int y);   
+    public int subtract(int x);
 }

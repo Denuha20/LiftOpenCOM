@@ -11,6 +11,5 @@ import OpenCOM.*;
  * @author denuha
  */
 public interface IUp extends IUnknown{
-    
     public int add(int x);
 }
